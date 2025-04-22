@@ -1,0 +1,8 @@
+:root{
+    --cor-fundo-header:#0044cc;
+    --cor-texto:#ffffff;
+}
+
+header{
+    background-color:var(--cor-fundo-header);
+}
