@@ -9,7 +9,7 @@ header{
     padding:20px;
 }
 
-header nav{
+header nav a{
     color: var(--cor-texto);
     margin-right: 20px;
     text-decoration: none;
