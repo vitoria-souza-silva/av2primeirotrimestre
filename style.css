@@ -5,4 +5,12 @@
 
 header{
     background-color:var(--cor-fundo-header);
+    color: var(--cor-texto);
+    padding:20px;
+}
+
+header nav{
+    color: var(--cor-texto);
+    margin-right: 20px;
+    text-decoration: none;
 }
