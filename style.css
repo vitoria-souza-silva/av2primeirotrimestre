@@ -14,3 +14,14 @@ header nav a{
     margin-right: 20px;
     text-decoration: none;
 }
+
+main .conteudo{
+    width:70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8b8888;
+    border:2px solid #0000;
+    border-radius: 8px;
+    padding: 20px;
+}
