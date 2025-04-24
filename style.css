@@ -25,3 +25,13 @@ main .conteudo{
     border-radius: 8px;
     padding: 20px;
 }
+
+section h2{
+    font-size: 24px;
+    color:#333333;
+}
+
+section-p{
+    margin-top: 10px;
+    padding:10px;
+}
